@@ -39,6 +39,5 @@ def adding
 
   # return the shipping_manifest hash below
   shipping_manifest
-end
   return shipping_manifest["oil paintings"]
 end
